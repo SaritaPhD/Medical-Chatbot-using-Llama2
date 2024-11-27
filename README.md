@@ -1,4 +1,15 @@
 # Medical-Chatbot-using-Llama2
+## Project Description
+This project is a medical chatbot powered by the open-source Llama 2 model and integrated with Pinecone for efficient vector search. The chatbot is designed to answer user queries based on information extracted from medical documents (PDFs). Key features include:
+
+- Flask Web Application: Provides an interactive interface for users to input queries and receive responses.
+- Llama 2 Integration: Uses the Llama 2 model for generating natural and contextually relevant answers.
+- Pinecone Vector Database: Manages embeddings and performs efficient similarity search to retrieve relevant context for user queries.
+- Dynamic Prompting: Customizable prompt templates ensure accurate and context-driven responses.
+- Retrieval-Augmented Generation (RAG): Combines information retrieval from PDFs with generative AI to deliver precise answers.
+This chatbot is optimized for medical use cases, enabling professionals or users to query medical documents with ease and accuracy.
+
+
 
 # How to run?
 ### STEPS:
