@@ -71,7 +71,6 @@ Now,
 open up localhost:
 ```
 
-
 ### Techstack Used:
 
 - Python
